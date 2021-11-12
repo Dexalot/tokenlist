@@ -18,62 +18,6 @@
             "symbol": "WAVAX",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/dasconnor/tokenlist/main/imgs/avalanche_token_round_inverted.png"
-        },
-        {
-            "chainId": 43114,
-            "address": "0x97b99B4009041e948337ebCA7e6ae52f9f6e633c",
-            "symbol": "CON",
-            "name": "Connor Coin",
-            "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/dasconnor/tokenlist/main/imgs/connorCoin.png"
-        },
-        {
-            "chainId": 43114,
-            "address": "0xa47a05ED74f80fA31621612887d26DF40bcF0cA9",
-            "symbol": "DAS",
-            "name": "Das Coin",
-            "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/dasconnor/tokenlist/main/imgs/dasCoin.png"
-        },
-        {
-            "chainId": 43114,
-            "address": "0x91aA62e0d6923F99Eb956E711A04dAed942E8bc8",
-            "symbol": "KVN",
-            "name": "Kevin Coin",
-            "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/dasconnor/tokenlist/main/imgs/0x91aA62e0d6923F99Eb956E711A04dAed942E8bc8/logo.png"
-        },
-        {
-            "chainId": 43114,
-            "address": "0x24D89c4D6CfF3eb573Ad3822Ad801c7a55Bfd852",
-            "symbol": "RAD",
-            "name": "Rado Coin",
-            "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/dasconnor/tokenlist/main/imgs/0x24D89c4D6CfF3eb573Ad3822Ad801c7a55Bfd852/logo.png"
-        },
-        {
-            "chainId": 43114,
-            "address": "0xF940bDb8D428eD66f9CD7924d2d5c2b13c73f71C",
-            "symbol": "PHL",
-            "name": "Phil Coin",
-            "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/dasconnor/tokenlist/main/imgs/0xF940bDb8D428eD66f9CD7924d2d5c2b13c73f71C/logo.png"
-        },
-        {
-            "chainId": 43114,
-            "address": "0x04EB488E42b14443C9670fBeC7BF730917bDBC1C",
-            "symbol": "PAT",
-            "name": "Patrick Coin",
-            "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/dasconnor/tokenlist/main/imgs/0x04EB488E42b14443C9670fBeC7BF730917bDBC1C/logo.png"
-        },
-        {
-            "chainId": 43114,
-            "address": "0x0EfBfeFD120D189ac4D579C60C9CDd992645742E",
-            "symbol": "FAB",
-            "name": "Fabio Coin",
-            "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/dasconnor/tokenlist/main/imgs/0x0EfBfeFD120D189ac4D579C60C9CDd992645742E/logo.png"
         }
     ]
 }

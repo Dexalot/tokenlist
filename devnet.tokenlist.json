@@ -18,42 +18,6 @@
             "symbol": "WAVAX",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/dasconnor/tokenlist/main/imgs/avalanche_token_round_inverted.png"
-        },
-        {
-            "address": "0x1c068b2C5f9927F2844e367345eb13a704d7Da40",
-            "chainId": 43112,
-            "name": "Connor Coin",
-            "symbol": "CON",
-            "decimals": 2
-        },
-        {
-            "address": "0x9Ba8D9855C4ADaBBB1fB11a0E076c1aF5ADf1cD5",
-            "chainId": 43112,
-            "name": "Das Coin",
-            "symbol": "DAS",
-            "decimals": 2
-        },
-
-        {
-            "chainId": 43112,
-            "address": "0x76476aAfd932f61b55089CD323a391f7aF4Acbdc",
-            "symbol": "ARN",
-            "name": "Aaron Coin",
-            "decimals": 2
-        },
-        {
-            "chainId": 43112,
-            "address": "0xbE2cB47E6703Ee88E5447815eD0b128467dbfb4E",
-            "symbol": "BKY",
-            "name": "Bucky Coin",
-            "decimals": 2
-        },
-        {
-            "chainId": 43112,
-            "address": "0x74B85E0820316C451E8EE64C870EE34947c1f56E",
-            "symbol": "NFX",
-            "name": "Netflix Coin",
-            "decimals": 2
         }
     ]
 }
