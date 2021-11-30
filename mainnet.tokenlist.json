@@ -12,12 +12,12 @@
     "timestamp": "2021-01-05T00:00:00+00:00",
     "tokens": [
         {
-            "address": "0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7",
             "chainId": 43114,
-            "name": "Wrapped AVAX",
-            "symbol": "WAVAX",
-            "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/Dexalot/tokenlist/main/imgs/avalanche_token_round_inverted.png"
+            "address": "0xc7198437980c041c805A1EDcbA50c1Ce5db95118",
+            "decimals": 6,
+            "name": "Tether USD",
+            "symbol": "USDT.e",
+            "logoURI": "https://raw.githubusercontent.com/Dexalot/tokenlist/main/imgs/0xc7198437980c041c805A1EDcbA50c1Ce5db95118/logo.png"
         }
     ]
 }

@@ -12,12 +12,12 @@
     "timestamp": "2021-01-05T00:00:00+00:00",
     "tokens": [
         {
-            "address": "0xB767287A7143759f294CfB7b1Adbca1140F3de71",
             "chainId": 43113,
-            "name": "Wrapped Ether",
-            "symbol": "WETH",
-            "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
+            "address": "0x4C1b0c8721a49351DbB559B2D017ab0CE47280B3",
+            "decimals": 6,
+            "name": "Tether USD",
+            "symbol": "USDT",
+            "logoURI": "https://raw.githubusercontent.com/Dexalot/tokenlist/main/imgs/0x4C1b0c8721a49351DbB559B2D017ab0CE47280B3/logo.png"
         }
     ]
 }
