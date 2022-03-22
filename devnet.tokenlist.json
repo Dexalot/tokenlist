@@ -18,6 +18,14 @@
             "name": "Tether USD",
             "symbol": "USDT.e",
             "logoURI": "https://raw.githubusercontent.com/Dexalot/tokenlist/main/imgs/0xA8D2566b403BCca7dF5D34516FB9A50b429022D7/logo.png"
+        },
+        {
+            "chainId": 43112,
+            "address": "0x264F68550136E7D0056D53385e42b1cD070A4e7c",
+            "decimals": 18,
+            "name": "Dexalot Token",
+            "symbol": "ALOT",
+            "logoURI": "https://raw.githubusercontent.com/Dexalot/tokenlist/main/imgs/0x093783055F9047C2BfF99c4e414501F8A147bC69/logo.png"
         }
     ]
 }
