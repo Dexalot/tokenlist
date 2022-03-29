@@ -26,6 +26,14 @@
             "name": "Dexalot Token",
             "symbol": "ALOT",
             "logoURI": "https://raw.githubusercontent.com/Dexalot/tokenlist/main/imgs/0x093783055F9047C2BfF99c4e414501F8A147bC69/logo.png"
+        },
+        {
+            "chainId": 43114,
+            "address": "0x449674B82F05d498E126Dd6615a1057A9c088f2C",
+            "decimals": 18,
+            "name": "Lost Worlds",
+            "symbol": "LOST",
+            "logoURI": "https://raw.githubusercontent.com/Dexalot/tokenlist/main/imgs/0x449674B82F05d498E126Dd6615a1057A9c088f2C/logo.png"
         }
     ]
 }
