@@ -21,6 +21,22 @@
         },
         {
             "chainId": 43113,
+            "address": "0xcd08B4612FB270B94c3cae7098d2DEba98156DF4",
+            "decimals": 18,
+            "name": "Degis Token",
+            "symbol": "DEG",
+            "logoURI": "https://raw.githubusercontent.com/Dexalot/tokenlist/main/imgs/0x9f285507Ea5B4F33822CA7aBb5EC8953ce37A645/logo.png"
+        },
+        {
+            "chainId": 43113,
+            "address": "0x4C1b0c8721a49351DbB559B2D017ab0CE47280B3",
+            "decimals": 18,
+            "name": "LostToken",
+            "symbol": "LOST",
+            "logoURI": "https://raw.githubusercontent.com/Dexalot/tokenlist/main/imgs/0x449674B82F05d498E126Dd6615a1057A9c088f2C/logo.png"
+        },
+        {
+            "chainId": 43113,
             "address": "0x9983F755Bbd60d1886CbfE103c98C272AA0F03d6",
             "decimals": 18,
             "name": "Battle Token",
