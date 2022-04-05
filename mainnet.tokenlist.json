@@ -34,6 +34,14 @@
             "name": "Lost Worlds",
             "symbol": "LOST",
             "logoURI": "https://raw.githubusercontent.com/Dexalot/tokenlist/main/imgs/0x449674B82F05d498E126Dd6615a1057A9c088f2C/logo.png"
+        },
+        {
+            "chainId": 43114,
+            "address": "0x9f285507Ea5B4F33822CA7aBb5EC8953ce37A645",
+            "decimals": 18,
+            "name": "Degis Token",
+            "symbol": "DEG",
+            "logoURI": "https://raw.githubusercontent.com/Dexalot/tokenlist/main/imgs/0x9f285507Ea5B4F33822CA7aBb5EC8953ce37A645/logo.png"
         }
     ]
 }
