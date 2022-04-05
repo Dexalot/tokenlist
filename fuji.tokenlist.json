@@ -29,7 +29,7 @@
         },
         {
             "chainId": 43113,
-            "address": "0x4C1b0c8721a49351DbB559B2D017ab0CE47280B3",
+            "address": "0x1CCfdD961F5C3A83D4c8566106082B90e1A87009",
             "decimals": 18,
             "name": "LostToken",
             "symbol": "LOST",
