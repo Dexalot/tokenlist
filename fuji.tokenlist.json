@@ -39,7 +39,7 @@
             "chainId": 43113,
             "address": "0x9983F755Bbd60d1886CbfE103c98C272AA0F03d6",
             "decimals": 18,
-            "name": "Battle Token",
+            "name": "Dexalot Token",
             "symbol": "ALOT",
             "logoURI": "https://raw.githubusercontent.com/Dexalot/tokenlist/main/imgs/0x093783055F9047C2BfF99c4e414501F8A147bC69/logo.png"
         },

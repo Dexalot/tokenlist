@@ -1,0 +1,39 @@
+{
+  "name": "Avalanche Token List",
+  "logoURI": "https://raw.githubusercontent.com/Dexalot/tokenlist/main/imgs/avalanche_token_round.png",
+  "version": {
+      "major": 0,
+      "minor": 9,
+      "patch": 0
+  },
+  "keywords": [
+      "avalanche"
+  ],
+  "timestamp": "2021-01-05T00:00:00+00:00",
+  "tokens": [
+      {
+          "chainId": 43114,
+          "address": "0xc7198437980c041c805A1EDcbA50c1Ce5db95118",
+          "decimals": 6,
+          "name": "Tether USD",
+          "symbol": "USDT.e",
+          "logoURI": "https://raw.githubusercontent.com/Dexalot/tokenlist/main/imgs/0xc7198437980c041c805A1EDcbA50c1Ce5db95118/logo.png"
+      },
+      {
+          "chainId": 43114,
+          "address": "0x0000000000000000000000000000000000000000",
+          "decimals": 18,
+          "name": "Dexalot Token",
+          "symbol": "ALOT",
+          "logoURI": "https://raw.githubusercontent.com/Dexalot/tokenlist/main/imgs/0x093783055F9047C2BfF99c4e414501F8A147bC69/logo.png"
+      },
+      {
+          "chainId": 43114,
+          "address": "0x449674B82F05d498E126Dd6615a1057A9c088f2C",
+          "decimals": 18,
+          "name": "Lost Worlds",
+          "symbol": "LOST",
+          "logoURI": "https://raw.githubusercontent.com/Dexalot/tokenlist/main/imgs/0x449674B82F05d498E126Dd6615a1057A9c088f2C/logo.png"
+      }
+  ]
+}
