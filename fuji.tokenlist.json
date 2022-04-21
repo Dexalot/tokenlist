@@ -58,6 +58,14 @@
             "name": "Battle Token",
             "symbol": "FLOST",
             "logoURI": "https://raw.githubusercontent.com/Dexalot/tokenlist/main/imgs/fuji_battle_icons/flost.png"
+        },
+        {
+            "chainId": 43113,
+            "address": "0x91B21A8bcE92049223e4Be9cb68F1B53bc316B1B",
+            "decimals": 18,
+            "name": "Mock Slime",
+            "symbol": "SLIME",
+            "logoURI": "https://raw.githubusercontent.com/Dexalot/tokenlist/main/imgs/0x91B21A8bcE92049223e4Be9cb68F1B53bc316B1B/logo.png"
         }
     ]
 }
