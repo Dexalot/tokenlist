@@ -42,6 +42,14 @@
             "name": "Degis Token",
             "symbol": "DEG",
             "logoURI": "https://raw.githubusercontent.com/Dexalot/tokenlist/main/imgs/0x9f285507Ea5B4F33822CA7aBb5EC8953ce37A645/logo.png"
+        },
+        {
+            "chainId": 43114,
+            "address": "0x5a15Bdcf9a3A8e799fa4381E666466a516F2d9C8",
+            "decimals": 18,
+            "name": "Slime Token",
+            "symbol": "SLIME",
+            "logoURI": "https://raw.githubusercontent.com/Dexalot/tokenlist/main/imgs/0x91B21A8bcE92049223e4Be9cb68F1B53bc316B1B/logo.png"
         }
     ]
 }
