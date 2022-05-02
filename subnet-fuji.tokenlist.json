@@ -1,47 +1,56 @@
 {
-  "name": "Subnet Fuji Token List",
-  "logoURI": "https://raw.githubusercontent.com/Dexalot/tokenlist/main/imgs/0x093783055F9047C2BfF99c4e414501F8A147bC69/logo.png",
-  "version": {
-      "major": 0,
-      "minor": 8,
-      "patch": 0
-  },
-  "keywords": [
-      "avalanche", "subnet-fuji"
-  ],
-  "timestamp": "2021-01-05T00:00:00+00:00",
-  "tokens": [
-      {
-          "chainId": 10000,
-          "address": "0x4C1b0c8721a49351DbB559B2D017ab0CE47280B3",
-          "decimals": 6,
-          "name": "Tether USD",
-          "symbol": "USDT",
-          "logoURI": "https://raw.githubusercontent.com/Dexalot/tokenlist/main/imgs/0x4C1b0c8721a49351DbB559B2D017ab0CE47280B3/logo.png"
-      },
-      {
-          "chainId": 10000,
-          "address": "0x0000000000000000000000000000000000000000",
-          "decimals": 18,
-          "name": "Dexalot Token",
-          "symbol": "ALOT",
-          "logoURI": "https://raw.githubusercontent.com/Dexalot/tokenlist/main/imgs/0x093783055F9047C2BfF99c4e414501F8A147bC69/logo.png"
-      },
-      {
-          "chainId": 10000,
-          "address": "0x3050ccAA558d781800Ba46527Be5Ce7f687fdf6B",
-          "decimals": 18,
-          "name": "Battle Token",
-          "symbol": "aAVAX",
-          "logoURI": "https://raw.githubusercontent.com/Dexalot/tokenlist/main/imgs/fuji_battle_icons/aavax.png"
-      },
-      {
-          "chainId": 10000,
-          "address": "0x9D2958608e26274E15F6eaafE7E641169DE935Ef",
-          "decimals": 18,
-          "name": "Battle Token",
-          "symbol": "FLOST",
-          "logoURI": "https://raw.githubusercontent.com/Dexalot/tokenlist/main/imgs/fuji_battle_icons/flost.png"
-      }
-  ]
+    "name": "Subnet Fuji Token List",
+    "logoURI": "https://raw.githubusercontent.com/Dexalot/tokenlist/main/imgs/0x093783055F9047C2BfF99c4e414501F8A147bC69/logo.png",
+    "version": {
+        "major": 0,
+        "minor": 8,
+        "patch": 0
+    },
+    "keywords": [
+        "avalanche",
+        "subnet-fuji"
+    ],
+    "timestamp": "2022-05-02T00:00:00+00:00",
+    "tokens": [
+        {
+            "chainId": 432201,
+            "address": "0x0000000000000000000000000000000000000000",
+            "decimals": 18,
+            "name": "Dexalot Token",
+            "symbol": "ALOT",
+            "logoURI": "https://raw.githubusercontent.com/Dexalot/tokenlist/main/imgs/alot/logo.png"
+        },
+        {
+            "chainId": 432201,
+            "address": "0x0b0E3a1F937F59359795E1ACfb9FC744F21a6894",
+            "decimals": 18,
+            "name": "Mock USDT.e",
+            "symbol": "USDT.e",
+            "logoURI": "https://raw.githubusercontent.com/Dexalot/tokenlist/main/imgs/usdt/logo.png"
+        },
+        {
+            "chainId": 432201,
+            "address": "0x2B21b816e82A4f186c4e9a8C9ae654ba353B91A2",
+            "decimals": 18,
+            "name": "Mock SER",
+            "symbol": "SER",
+            "logoURI": "https://raw.githubusercontent.com/Dexalot/tokenlist/main/imgs/fuji_battle_icons/ser.png"
+        },
+        {
+            "chainId": 432201,
+            "address": "0x3aF43E5a9bc53Ec5cC7cF614D209ac52F26A2B8c",
+            "decimals": 18,
+            "name": "Mock LFG",
+            "symbol": "LFG",
+            "logoURI": "https://raw.githubusercontent.com/Dexalot/tokenlist/main/imgs/fuji_battle_icons/lfg.png"
+        },
+        {
+            "chainId": 432201,
+            "address": "0x8B32CF176c409d7d40838295fb225c22d3937032",
+            "decimals": 18,
+            "name": "Mock AVAX",
+            "symbol": "AVAX",
+            "logoURI": "https://raw.githubusercontent.com/Dexalot/tokenlist/main/imgs/avax/logo.png"
+        }
+    ]
 }
