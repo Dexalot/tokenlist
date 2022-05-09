@@ -66,6 +66,22 @@
             "name": "Battle Token",
             "symbol": "FLOST",
             "logoURI": "https://raw.githubusercontent.com/Dexalot/tokenlist/main/imgs/fuji_battle_icons/flost.png"
+        },
+        {
+            "chainId": 43113,
+            "address": "0x9865AA91f7f163285cB9db5E0f88c647C26a7692",
+            "decimals": 18,
+            "name": "AVAX Battle Token",
+            "symbol": "bAVAX",
+            "logoURI": "https://raw.githubusercontent.com/Dexalot/tokenlist/main/imgs/fuji_battle_icons/bAVAX.png"
+        },
+        {
+            "chainId": 43113,
+            "address": "0xc378aCf87Dc390eE912121Bb96981f833472d4AB",
+            "decimals": 18,
+            "name": "Dragon Crypto Battle Token",
+            "symbol": "DGON",
+            "logoURI": "https://raw.githubusercontent.com/Dexalot/tokenlist/main/imgs/fuji_battle_icons/DGON.png"
         }
     ]
 }
