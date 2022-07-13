@@ -21,6 +21,14 @@
         },
         {
             "chainId": 43114,
+            "address": "0xA7D7079b0FEaD91F3e65f86E8915Cb59c1a4C664",
+            "decimals": 6,
+            "name": "USD Coin",
+            "symbol": "USDC.e",
+            "logoURI": "https://raw.githubusercontent.com/Dexalot/tokenlist/main/imgs/usdc/logo.png"
+        },
+        {
+            "chainId": 43114,
             "address": "0x093783055F9047C2BfF99c4e414501F8A147bC69",
             "decimals": 18,
             "name": "Dexalot Token",
