@@ -42,7 +42,7 @@
           "decimals": 18,
           "name": "Mock USDC",
           "symbol": "USDC",
-          "logoURI": "https://raw.githubusercontent.com/Dexalot/tokenlist/main/imgs/fuji_battle_icons/usdc/logo.png"
+          "logoURI": "https://raw.githubusercontent.com/Dexalot/tokenlist/main/imgs/usdc/logo.png"
       },
       {
           "chainId": 432201,
