@@ -13,19 +13,51 @@
     "tokens": [
         {
             "chainId": 43112,
-            "address": "0xA8D2566b403BCca7dF5D34516FB9A50b429022D7",
-            "decimals": 6,
-            "name": "Tether USD",
-            "symbol": "USDT.e",
-            "logoURI": "https://raw.githubusercontent.com/Dexalot/tokenlist/main/imgs/0xA8D2566b403BCca7dF5D34516FB9A50b429022D7/logo.png"
+            "address": "0x0000000000000000000000000000000000000000",
+            "decimals": 18,
+            "name": "Mock AVAX",
+            "symbol": "AVAX",
+            "logoURI": "https://raw.githubusercontent.com/Dexalot/tokenlist/main/imgs/avax/logo.png"
         },
         {
             "chainId": 43112,
-            "address": "0x264F68550136E7D0056D53385e42b1cD070A4e7c",
+            "address": "0xA8D2566b403BCca7dF5D34516FB9A50b429022D7",
+            "decimals": 6,
+            "name": "Tether USDT",
+            "symbol": "USDT.e",
+            "logoURI": "https://raw.githubusercontent.com/Dexalot/tokenlist/main/imgs/usdt/logo.png"
+        },
+        {
+            "chainId": 43112,
+            "address": "0x9983F755Bbd60d1886CbfE103c98C272AA0F03d6",
             "decimals": 18,
             "name": "Dexalot Token",
             "symbol": "ALOT",
-            "logoURI": "https://raw.githubusercontent.com/Dexalot/tokenlist/main/imgs/0x093783055F9047C2BfF99c4e414501F8A147bC69/logo.png"
+            "logoURI": "https://raw.githubusercontent.com/Dexalot/tokenlist/main/imgs/alot/logo.png"
+        },
+        {
+            "chainId": 43112,
+            "address": "0x68B773B8C10F2ACE8aC51980A1548B6B48a2eC54",
+            "decimals": 18,
+            "name": "Mock USDC",
+            "symbol": "USDC",
+            "logoURI": "https://raw.githubusercontent.com/Dexalot/tokenlist/main/imgs/usdc/logo.png"
+        },
+        {
+            "chainId": 43112,
+            "address": "0x16F3e7B8327F2cA3f49Efbb1510d5842F7d4a68C",
+            "decimals": 18,
+            "name": "Mock ETH",
+            "symbol": "ETH",
+            "logoURI": "https://raw.githubusercontent.com/Dexalot/tokenlist/main/imgs/eth/logo.png"
+        },
+        {
+            "chainId": 43112,
+            "address": "0xf52602253474ddaF6111133ADc1F7C3d28A30ABd",
+            "decimals": 18,
+            "name": "SER",
+            "symbol": "SER",
+            "logoURI": "https://raw.githubusercontent.com/Dexalot/tokenlist/main/imgs/fuji_battle_icons/ser.png"
         }
     ]
 }
