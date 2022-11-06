@@ -30,10 +30,26 @@
         },
         {
             "chainId": 432201,
+            "address": "0x9A25c06CAE51ae79239f37ce478D515808935670",
+            "decimals": 6,
+            "name": "Game kUSDC",
+            "symbol": "kUSDC",
+            "logoURI": "https://raw.githubusercontent.com/Dexalot/tokenlist/main/imgs/usdc/logo.png"
+        },
+        {
+            "chainId": 432201,
             "address": "0x0000000000000000000000000000000000000000",
             "decimals": 18,
             "name": "Mock AVAX",
             "symbol": "AVAX",
+            "logoURI": "https://raw.githubusercontent.com/Dexalot/tokenlist/main/imgs/avax/logo.png"
+        },
+        {
+            "chainId": 432201,
+            "address": "0xD0304d0489f9199c282f1f8e62ACC6EFE3C2FCEd",
+            "decimals": 18,
+            "name": "Game kAVAX",
+            "symbol": "kAVAX",
             "logoURI": "https://raw.githubusercontent.com/Dexalot/tokenlist/main/imgs/avax/logo.png"
         },
         {
