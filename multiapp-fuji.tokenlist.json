@@ -38,6 +38,14 @@
         },
         {
             "chainId": 432201,
+            "address": "0x4d4f901d5Fc144C99FD0bdBB5Ab63810c56B84B4",
+            "decimals": 6,
+            "name": "TDTC3 mUSDC",
+            "symbol": "mUSDC",
+            "logoURI": "https://raw.githubusercontent.com/Dexalot/tokenlist/main/imgs/usdc/logo.png"
+        },
+        {
+            "chainId": 432201,
             "address": "0x0000000000000000000000000000000000000000",
             "decimals": 18,
             "name": "Mock AVAX",
@@ -74,6 +82,14 @@
             "decimals": 18,
             "name": "WETH.e",
             "symbol": "WETH.e",
+            "logoURI": "https://raw.githubusercontent.com/Dexalot/tokenlist/main/imgs/eth/logo.png"
+        },
+        {
+            "chainId": 432201,
+            "address": "0x7800173F578F361D31F99D71eDD6f27185a9fC22",
+            "decimals": 18,
+            "name": "TDTC3 mWETH.e",
+            "symbol": "mWETH.e",
             "logoURI": "https://raw.githubusercontent.com/Dexalot/tokenlist/main/imgs/eth/logo.png"
         },
         {
