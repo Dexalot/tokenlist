@@ -83,6 +83,14 @@
             "name": "LOST Token",
             "symbol": "LOST",
             "logoURI": "https://raw.githubusercontent.com/Dexalot/tokenlist/main/imgs/lost/logo.png"
+        },
+        {
+            "chainId": 432204,
+            "address": "0x66B071A55b7c258c2086527e35EE355771aA05B8",
+            "decimals": 18,
+            "name": "Cyberstella",
+            "symbol": "STL",
+            "logoURI": "https://raw.githubusercontent.com/Dexalot/tokenlist/main/imgs/stl/logo.png"
         }
     ]
 }
