@@ -115,6 +115,14 @@
             "name": "LOST",
             "symbol": "LOST",
             "logoURI": "https://raw.githubusercontent.com/Dexalot/tokenlist/main/imgs/lost/logo.png"
+        },
+        {
+            "chainId": 432201,
+            "address": "0x53d80871b92dadeD34A4BdFA6838DdFC7f214240",
+            "decimals": 18,
+            "name": "Euro Coin",
+            "symbol": "EUROC",
+            "logoURI": "https://raw.githubusercontent.com/Dexalot/tokenlist/main/imgs/euroc/logo.png"
         }
     ]
 }
