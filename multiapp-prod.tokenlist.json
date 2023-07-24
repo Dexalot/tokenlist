@@ -94,6 +94,14 @@
         },
         {
             "chainId": 432204,
+            "address": "0x2b2C81e08f1Af8835a78Bb2A90AE924ACE0eA4bE",
+            "decimals": 18,
+            "name": "Staked AVAX",
+            "symbol": "sAVAX",
+            "logoURI": "https://raw.githubusercontent.com/Dexalot/tokenlist/main/imgs/savax/logo.png"
+        },
+        {
+            "chainId": 432204,
             "address": "0xC891EB4cbdEFf6e073e859e987815Ed1505c2ACD",
             "decimals": 18,
             "name": "Euro Coin",
