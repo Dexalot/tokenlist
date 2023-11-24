@@ -123,6 +123,14 @@
             "name": "Euro Coin",
             "symbol": "EUROC",
             "logoURI": "https://raw.githubusercontent.com/Dexalot/tokenlist/main/imgs/euroc/logo.png"
+        },
+        {
+            "chainId": 432201,
+            "address": "0x8729438EB15e2C8B576fCc6AeCdA6A148776C0F5",
+            "decimals": 18,
+            "name": "BENQI Token",
+            "symbol": "QI",
+            "logoURI": "https://raw.githubusercontent.com/Dexalot/tokenlist/main/imgs/qi/logo.png"
         }
     ]
 }
