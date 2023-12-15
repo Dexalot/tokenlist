@@ -115,6 +115,14 @@
             "name": "BENQI Token",
             "symbol": "QI",
             "logoURI": "https://raw.githubusercontent.com/Dexalot/tokenlist/main/imgs/qi/logo.png"
+        },
+        {
+            "chainId": 432204,
+            "address": "0x420FcA0121DC28039145009570975747295f2329",
+            "decimals": 18,
+            "name": "COQ Token",
+            "symbol": "COQ",
+            "logoURI": "https://raw.githubusercontent.com/Dexalot/tokenlist/main/imgs/coq/logo.png"
         }
     ]
 }
