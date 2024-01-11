@@ -139,6 +139,14 @@
             "name": "COQ Token",
             "symbol": "COQ",
             "logoURI": "https://raw.githubusercontent.com/Dexalot/tokenlist/main/imgs/coq/logo.png"
+        },
+        {
+            "chainId": 432201,
+            "address": "0x420FcA0121DC28039145009570975747295f2329",
+            "decimals": 18,
+            "name": "GMX Token",
+            "symbol": "GMX",
+            "logoURI": "https://raw.githubusercontent.com/Dexalot/tokenlist/main/imgs/gmx/logo.png"
         }
     ]
 }
