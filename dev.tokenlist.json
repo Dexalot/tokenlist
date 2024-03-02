@@ -1,152 +1,123 @@
 {
-    "name": "Multiapp Fuji Token List",
+    "name": "Dev Token List",
     "logoURI": "https://raw.githubusercontent.com/Dexalot/tokenlist/main/imgs/avax/logo.png",
     "version": {
         "major": 0,
         "minor": 8,
         "patch": 0
     },
-    "keywords": [
-        "avalanche",
-        "subnet-fuji"
-    ],
-    "timestamp": "2022-05-02T00:00:00+00:00",
+    "keywords": [],
+    "timestamp": "",
     "tokens": [
         {
-            "chainId": 432201,
-            "address": "0x9983F755Bbd60d1886CbfE103c98C272AA0F03d6",
-            "decimals": 18,
             "name": "Dexalot Token",
             "symbol": "ALOT",
             "logoURI": "https://raw.githubusercontent.com/Dexalot/tokenlist/main/imgs/alot/logo.png"
         },
         {
-            "chainId": 432201,
-            "address": "0x68B773B8C10F2ACE8aC51980A1548B6B48a2eC54",
-            "decimals": 18,
             "name": "Mock USDC",
             "symbol": "USDC",
             "logoURI": "https://raw.githubusercontent.com/Dexalot/tokenlist/main/imgs/usdc/logo.png"
         },
         {
-            "chainId": 432201,
-            "address": "0x9A25c06CAE51ae79239f37ce478D515808935670",
-            "decimals": 6,
             "name": "Game kUSDC",
             "symbol": "kUSDC",
             "logoURI": "https://raw.githubusercontent.com/Dexalot/tokenlist/main/imgs/usdc/logo.png"
         },
         {
-            "chainId": 432201,
-            "address": "0x4d4f901d5Fc144C99FD0bdBB5Ab63810c56B84B4",
-            "decimals": 6,
             "name": "TDTC3 mUSDC",
             "symbol": "mUSDC",
             "logoURI": "https://raw.githubusercontent.com/Dexalot/tokenlist/main/imgs/usdc/logo.png"
         },
         {
-            "chainId": 432201,
-            "address": "0x0000000000000000000000000000000000000000",
-            "decimals": 18,
             "name": "Mock AVAX",
             "symbol": "AVAX",
             "logoURI": "https://raw.githubusercontent.com/Dexalot/tokenlist/main/imgs/avax/logo.png"
         },
         {
-            "chainId": 432201,
-            "address": "0xD0304d0489f9199c282f1f8e62ACC6EFE3C2FCEd",
-            "decimals": 18,
             "name": "Game kAVAX",
             "symbol": "kAVAX",
             "logoURI": "https://raw.githubusercontent.com/Dexalot/tokenlist/main/imgs/avax/logo.png"
         },
         {
-            "chainId": 432201,
-            "address": "0x5AAD791Bafde4fC3f2B60195b8C51820087Ff6FF",
-            "decimals": 18,
             "name": "BTC.b",
             "symbol": "BTC.b",
             "logoURI": "https://raw.githubusercontent.com/Dexalot/tokenlist/main/imgs/btc/logo.png"
         },
         {
-            "chainId": 432201,
-            "address": "0xcd08B4612FB270B94c3cae7098d2DEba98156DF4",
-            "decimals": 18,
             "name": "DEG",
             "symbol": "DEG",
             "logoURI": "https://raw.githubusercontent.com/Dexalot/tokenlist/main/imgs/deg/logo.png"
         },
         {
-            "chainId": 432201,
-            "address": "0xc42E4b495020b87a2f2F7b4fb817F79fcF7043E2",
-            "decimals": 18,
             "name": "WETH.e",
             "symbol": "WETH.e",
             "logoURI": "https://raw.githubusercontent.com/Dexalot/tokenlist/main/imgs/eth/logo.png"
         },
         {
-            "chainId": 432201,
-            "address": "0x7800173F578F361D31F99D71eDD6f27185a9fC22",
-            "decimals": 18,
             "name": "TDTC3 mWETH.e",
             "symbol": "mWETH.e",
             "logoURI": "https://raw.githubusercontent.com/Dexalot/tokenlist/main/imgs/eth/logo.png"
         },
         {
-            "chainId": 432201,
-            "address": "0x91B21A8bcE92049223e4Be9cb68F1B53bc316B1B",
-            "decimals": 18,
             "name": "SLIME",
             "symbol": "SLIME",
             "logoURI": "https://raw.githubusercontent.com/Dexalot/tokenlist/main/imgs/slime/logo.png"
         },
         {
-            "chainId": 432201,
-            "address": "0x4C1b0c8721a49351DbB559B2D017ab0CE47280B3",
-            "decimals": 18,
             "name": "USDT",
             "symbol": "USDT",
             "logoURI": "https://raw.githubusercontent.com/Dexalot/tokenlist/main/imgs/usdt/logo.png"
         },
         {
-            "chainId": 432201,
-            "address": "0x1CCfdD961F5C3A83D4c8566106082B90e1A87009",
-            "decimals": 18,
             "name": "LOST",
             "symbol": "LOST",
             "logoURI": "https://raw.githubusercontent.com/Dexalot/tokenlist/main/imgs/lost/logo.png"
         },
         {
-            "chainId": 432201,
-            "address": "0x53d80871b92dadeD34A4BdFA6838DdFC7f214240",
-            "decimals": 18,
             "name": "Euro Coin",
             "symbol": "EUROC",
             "logoURI": "https://raw.githubusercontent.com/Dexalot/tokenlist/main/imgs/euroc/logo.png"
         },
         {
-            "chainId": 432201,
-            "address": "0x8729438EB15e2C8B576fCc6AeCdA6A148776C0F5",
-            "decimals": 18,
             "name": "BENQI Token",
             "symbol": "QI",
             "logoURI": "https://raw.githubusercontent.com/Dexalot/tokenlist/main/imgs/qi/logo.png"
         },
         {
-            "chainId": 432201,
-            "address": "0x420FcA0121DC28039145009570975747295f2329",
-            "decimals": 18,
             "name": "COQ Token",
             "symbol": "COQ",
             "logoURI": "https://raw.githubusercontent.com/Dexalot/tokenlist/main/imgs/coq/logo.png"
         },
         {
-            "chainId": 432201,
-            "address": "0x420FcA0121DC28039145009570975747295f2329",
-            "decimals": 18,
             "name": "GMX Token",
             "symbol": "GMX",
             "logoURI": "https://raw.githubusercontent.com/Dexalot/tokenlist/main/imgs/gmx/logo.png"
+        },
+        {
+            "name": "Arbitrum Token",
+            "symbol": "ARB",
+            "logoURI": "https://raw.githubusercontent.com/Dexalot/tokenlist/main/imgs/arb/logo.png"
+        },
+        {
+            "name": "Wrapped Bitcoin",
+            "symbol": "WBTC",
+            "logoURI": "https://raw.githubusercontent.com/Dexalot/tokenlist/main/imgs/btc/logo.png"
+        },
+        {
+            "name": "Ethereum",
+            "symbol": "ETH",
+            "logoURI": "https://raw.githubusercontent.com/Dexalot/tokenlist/main/imgs/eth/logo.png"
+        },
+        {
+            "name": "Gunzilla Token",
+            "symbol": "GUN",
+            "logoURI": "https://raw.githubusercontent.com/Dexalot/tokenlist/main/imgs/gun/logo.png"
+        },
+        {
+            "name": "Bitcoin",
+            "symbol": "BTC",
+            "logoURI": "https://raw.githubusercontent.com/Dexalot/tokenlist/main/imgs/btc/logo.png"
         }
     ]
 }
