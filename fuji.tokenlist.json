@@ -1,0 +1,123 @@
+{
+    "name": "Fuji Token List",
+    "logoURI": "https://raw.githubusercontent.com/Dexalot/tokenlist/main/imgs/avax/logo.png",
+    "version": {
+        "major": 0,
+        "minor": 8,
+        "patch": 0
+    },
+    "keywords": [],
+    "timestamp": "",
+    "tokens": [
+        {
+            "name": "Dexalot Token",
+            "symbol": "ALOT",
+            "logoURI": "https://raw.githubusercontent.com/Dexalot/tokenlist/main/imgs/alot/logo.png"
+        },
+        {
+            "name": "Mock USDC",
+            "symbol": "USDC",
+            "logoURI": "https://raw.githubusercontent.com/Dexalot/tokenlist/main/imgs/usdc/logo.png"
+        },
+        {
+            "name": "Game kUSDC",
+            "symbol": "kUSDC",
+            "logoURI": "https://raw.githubusercontent.com/Dexalot/tokenlist/main/imgs/usdc/logo.png"
+        },
+        {
+            "name": "TDTC3 mUSDC",
+            "symbol": "mUSDC",
+            "logoURI": "https://raw.githubusercontent.com/Dexalot/tokenlist/main/imgs/usdc/logo.png"
+        },
+        {
+            "name": "Mock AVAX",
+            "symbol": "AVAX",
+            "logoURI": "https://raw.githubusercontent.com/Dexalot/tokenlist/main/imgs/avax/logo.png"
+        },
+        {
+            "name": "Game kAVAX",
+            "symbol": "kAVAX",
+            "logoURI": "https://raw.githubusercontent.com/Dexalot/tokenlist/main/imgs/avax/logo.png"
+        },
+        {
+            "name": "BTC.b",
+            "symbol": "BTC.b",
+            "logoURI": "https://raw.githubusercontent.com/Dexalot/tokenlist/main/imgs/btc/logo.png"
+        },
+        {
+            "name": "DEG",
+            "symbol": "DEG",
+            "logoURI": "https://raw.githubusercontent.com/Dexalot/tokenlist/main/imgs/deg/logo.png"
+        },
+        {
+            "name": "WETH.e",
+            "symbol": "WETH.e",
+            "logoURI": "https://raw.githubusercontent.com/Dexalot/tokenlist/main/imgs/eth/logo.png"
+        },
+        {
+            "name": "TDTC3 mWETH.e",
+            "symbol": "mWETH.e",
+            "logoURI": "https://raw.githubusercontent.com/Dexalot/tokenlist/main/imgs/eth/logo.png"
+        },
+        {
+            "name": "SLIME",
+            "symbol": "SLIME",
+            "logoURI": "https://raw.githubusercontent.com/Dexalot/tokenlist/main/imgs/slime/logo.png"
+        },
+        {
+            "name": "USDT",
+            "symbol": "USDT",
+            "logoURI": "https://raw.githubusercontent.com/Dexalot/tokenlist/main/imgs/usdt/logo.png"
+        },
+        {
+            "name": "LOST",
+            "symbol": "LOST",
+            "logoURI": "https://raw.githubusercontent.com/Dexalot/tokenlist/main/imgs/lost/logo.png"
+        },
+        {
+            "name": "Euro Coin",
+            "symbol": "EUROC",
+            "logoURI": "https://raw.githubusercontent.com/Dexalot/tokenlist/main/imgs/euroc/logo.png"
+        },
+        {
+            "name": "BENQI Token",
+            "symbol": "QI",
+            "logoURI": "https://raw.githubusercontent.com/Dexalot/tokenlist/main/imgs/qi/logo.png"
+        },
+        {
+            "name": "COQ Token",
+            "symbol": "COQ",
+            "logoURI": "https://raw.githubusercontent.com/Dexalot/tokenlist/main/imgs/coq/logo.png"
+        },
+        {
+            "name": "GMX Token",
+            "symbol": "GMX",
+            "logoURI": "https://raw.githubusercontent.com/Dexalot/tokenlist/main/imgs/gmx/logo.png"
+        },
+        {
+            "name": "Arbitrum Token",
+            "symbol": "ARB",
+            "logoURI": "https://raw.githubusercontent.com/Dexalot/tokenlist/main/imgs/arb/logo.png"
+        },
+        {
+            "name": "Wrapped Bitcoin",
+            "symbol": "WBTC",
+            "logoURI": "https://raw.githubusercontent.com/Dexalot/tokenlist/main/imgs/btc/logo.png"
+        },
+        {
+            "name": "Ethereum",
+            "symbol": "ETH",
+            "logoURI": "https://raw.githubusercontent.com/Dexalot/tokenlist/main/imgs/eth/logo.png"
+        },
+        {
+            "name": "Gunzilla Token",
+            "symbol": "GUN",
+            "logoURI": "https://raw.githubusercontent.com/Dexalot/tokenlist/main/imgs/gun/logo.png"
+        },
+        {
+            "name": "Bitcoin",
+            "symbol": "BTC",
+            "logoURI": "https://raw.githubusercontent.com/Dexalot/tokenlist/main/imgs/btc/logo.png"
+        }
+    ]
+}
