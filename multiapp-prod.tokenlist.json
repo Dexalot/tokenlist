@@ -131,6 +131,46 @@
             "name": "GMX Token",
             "symbol": "GMX",
             "logoURI": "https://raw.githubusercontent.com/Dexalot/tokenlist/main/imgs/gmx/logo.png"
+        },
+        {
+            "chainId": 432204,
+            "address": "0x184ff13B3EBCB25Be44e860163A5D8391Dd568c1",
+            "decimals": 18,
+            "name": "KIMBO Token",
+            "symbol": "KIMBO",
+            "logoURI": "https://raw.githubusercontent.com/Dexalot/tokenlist/main/imgs/kimbo/logo.png"
+        },
+        {
+            "chainId": 432204,
+            "address": "0x5Ac04b69bDE6f67C0bd5D6bA6fD5D816548b066a",
+            "decimals": 18,
+            "name": "TECH Token",
+            "symbol": "TECH",
+            "logoURI": "https://raw.githubusercontent.com/Dexalot/tokenlist/main/imgs/tech/logo.png"
+        },
+        {
+            "chainId": 432204,
+            "address": "0xAcFb898Cff266E53278cC0124fC2C7C94C8cB9a5",
+            "decimals": 18,
+            "name": "NOCHILL Token",
+            "symbol": "NOCHILL",
+            "logoURI": "https://raw.githubusercontent.com/Dexalot/tokenlist/main/imgs/nochill/logo.png"
+        },
+        {
+            "chainId": 432204,
+            "address": "0x8aD25B0083C9879942A64f00F20a70D3278f6187",
+            "decimals": 18,
+            "name": "MEOW Token",
+            "symbol": "MEOW",
+            "logoURI": "https://raw.githubusercontent.com/Dexalot/tokenlist/main/imgs/meow/logo.png"
+        },
+        {
+            "chainId": 432204,
+            "address": "0xE8385CECb013561b69bEb63FF59f4d10734881f3",
+            "decimals": 18,
+            "name": "GEC Token",
+            "symbol": "GEC",
+            "logoURI": "https://raw.githubusercontent.com/Dexalot/tokenlist/main/imgs/gec/logo.png"
         }
     ]
 }
