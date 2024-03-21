@@ -118,6 +118,31 @@
             "name": "Bitcoin",
             "symbol": "BTC",
             "logoURI": "https://raw.githubusercontent.com/Dexalot/tokenlist/main/imgs/btc/logo.png"
+        },
+        {
+            "name": "KIMBO Token",
+            "symbol": "KIMBO",
+            "logoURI": "https://raw.githubusercontent.com/Dexalot/tokenlist/main/imgs/kimbo/logo.png"
+        },
+        {
+            "name": "TECH Token",
+            "symbol": "TECH",
+            "logoURI": "https://raw.githubusercontent.com/Dexalot/tokenlist/main/imgs/tech/logo.png"
+        },
+        {
+            "name": "NOCHILL Token",
+            "symbol": "NOCHILL",
+            "logoURI": "https://raw.githubusercontent.com/Dexalot/tokenlist/main/imgs/nochill/logo.png"
+        },
+        {
+            "name": "MEOW Token",
+            "symbol": "MEOW",
+            "logoURI": "https://raw.githubusercontent.com/Dexalot/tokenlist/main/imgs/meow/logo.png"
+        },
+        {
+            "name": "GEC Token",
+            "symbol": "GEC",
+            "logoURI": "https://raw.githubusercontent.com/Dexalot/tokenlist/main/imgs/gec/logo.png"
         }
     ]
 }
