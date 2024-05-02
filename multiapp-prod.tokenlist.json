@@ -1,173 +1,125 @@
 {
-    "name": "Multiapp Production Token List",
+    "name": "Production Token List",
     "logoURI": "https://raw.githubusercontent.com/Dexalot/tokenlist/main/imgs/avax/logo.png",
     "version": {
         "major": 0,
         "minor": 8,
         "patch": 0
     },
-    "keywords": [
-        "avalanche",
-        "subnet"
-    ],
-    "timestamp": "2022-05-02T00:00:00+00:00",
+    "keywords": [],
+    "timestamp": "",
     "tokens": [
         {
-            "chainId": 432204,
-            "address": "0x9983F755Bbd60d1886CbfE103c98C272AA0F03d6",
-            "decimals": 18,
             "name": "Dexalot Token",
             "symbol": "ALOT",
             "logoURI": "https://raw.githubusercontent.com/Dexalot/tokenlist/main/imgs/alot/logo.png"
         },
         {
-            "chainId": 432204,
-            "address": "0xB97EF9Ef8734C71904D8002F8b6Bc66Dd9c48a6E",
-            "decimals": 18,
             "name": "USDC",
             "symbol": "USDC",
             "logoURI": "https://raw.githubusercontent.com/Dexalot/tokenlist/main/imgs/usdc/logo.png"
         },
         {
-            "chainId": 432204,
-            "address": "0x0000000000000000000000000000000000000000",
-            "decimals": 18,
             "name": "Avalanche",
             "symbol": "AVAX",
             "logoURI": "https://raw.githubusercontent.com/Dexalot/tokenlist/main/imgs/avax/logo.png"
         },
         {
-            "chainId": 432204,
-            "address": "0x152b9d0FdC40C096757F570A51E494bd4b943E50",
-            "decimals": 18,
             "name": "BTC.b",
             "symbol": "BTC.b",
             "logoURI": "https://raw.githubusercontent.com/Dexalot/tokenlist/main/imgs/btc/logo.png"
         },
         {
-            "chainId": 432204,
-            "address": "0x932bC2933d1782ECBe1b8cE03B7fe3867fD72056",
-            "decimals": 18,
+            "name": "WBTC",
+            "symbol": "WBTC",
+            "logoURI": "https://raw.githubusercontent.com/Dexalot/tokenlist/main/imgs/btc/logo.png"
+        },
+        {
             "name": "DEGIS Token",
             "symbol": "DEG",
             "logoURI": "https://raw.githubusercontent.com/Dexalot/tokenlist/main/imgs/deg/logo.png"
         },
         {
-            "chainId": 432204,
-            "address": "0x49D5c2BdFfac6CE2BFdB6640F4F80f226bc10bAB",
-            "decimals": 18,
             "name": "WETH.e",
             "symbol": "WETH.e",
             "logoURI": "https://raw.githubusercontent.com/Dexalot/tokenlist/main/imgs/eth/logo.png"
         },
         {
-            "chainId": 432204,
-            "address": "0x5a15Bdcf9a3A8e799fa4381E666466a516F2d9C8",
-            "decimals": 18,
+            "name": "ETH",
+            "symbol": "ETH",
+            "logoURI": "https://raw.githubusercontent.com/Dexalot/tokenlist/main/imgs/eth/logo.png"
+        },
+        {
             "name": "SLIME Token",
             "symbol": "SLIME",
             "logoURI": "https://raw.githubusercontent.com/Dexalot/tokenlist/main/imgs/slime/logo.png"
         },
         {
-            "chainId": 432204,
-            "address": "0x9702230A8Ea53601f5cD2dc00fDBc13d4dF4A8c7",
-            "decimals": 18,
             "name": "TetherToken",
             "symbol": "USDT",
             "logoURI": "https://raw.githubusercontent.com/Dexalot/tokenlist/main/imgs/usdt/logo.png"
         },
         {
-            "chainId": 432204,
-            "address": "0x449674B82F05d498E126Dd6615a1057A9c088f2C",
-            "decimals": 18,
+            "name": "TetherToken",
+            "symbol": "USDt",
+            "logoURI": "https://raw.githubusercontent.com/Dexalot/tokenlist/main/imgs/usdt/logo.png"
+        },
+        {
             "name": "LOST Token",
             "symbol": "LOST",
             "logoURI": "https://raw.githubusercontent.com/Dexalot/tokenlist/main/imgs/lost/logo.png"
         },
         {
-            "chainId": 432204,
-            "address": "0x66B071A55b7c258c2086527e35EE355771aA05B8",
-            "decimals": 18,
             "name": "Cyberstella",
             "symbol": "STL",
             "logoURI": "https://raw.githubusercontent.com/Dexalot/tokenlist/main/imgs/stl/logo.png"
         },
         {
-            "chainId": 432204,
-            "address": "0x2b2C81e08f1Af8835a78Bb2A90AE924ACE0eA4bE",
-            "decimals": 18,
             "name": "Staked AVAX",
             "symbol": "sAVAX",
             "logoURI": "https://raw.githubusercontent.com/Dexalot/tokenlist/main/imgs/savax/logo.png"
         },
         {
-            "chainId": 432204,
-            "address": "0xC891EB4cbdEFf6e073e859e987815Ed1505c2ACD",
-            "decimals": 18,
             "name": "Euro Coin",
             "symbol": "EUROC",
             "logoURI": "https://raw.githubusercontent.com/Dexalot/tokenlist/main/imgs/euroc/logo.png"
         },
         {
-            "chainId": 432204,
-            "address": "0x8729438EB15e2C8B576fCc6AeCdA6A148776C0F5",
-            "decimals": 18,
             "name": "BENQI Token",
             "symbol": "QI",
             "logoURI": "https://raw.githubusercontent.com/Dexalot/tokenlist/main/imgs/qi/logo.png"
         },
         {
-            "chainId": 432204,
-            "address": "0x420FcA0121DC28039145009570975747295f2329",
-            "decimals": 18,
             "name": "COQ Token",
             "symbol": "COQ",
             "logoURI": "https://raw.githubusercontent.com/Dexalot/tokenlist/main/imgs/coq/logo.png"
         },
         {
-            "chainId": 432204,
-            "address": "0x62edc0692BD897D2295872a9FFCac5425011c661",
-            "decimals": 18,
             "name": "GMX Token",
             "symbol": "GMX",
             "logoURI": "https://raw.githubusercontent.com/Dexalot/tokenlist/main/imgs/gmx/logo.png"
         },
         {
-            "chainId": 432204,
-            "address": "0x184ff13B3EBCB25Be44e860163A5D8391Dd568c1",
-            "decimals": 18,
             "name": "KIMBO Token",
             "symbol": "KIMBO",
             "logoURI": "https://raw.githubusercontent.com/Dexalot/tokenlist/main/imgs/kimbo/logo.png"
         },
         {
-            "chainId": 432204,
-            "address": "0x5Ac04b69bDE6f67C0bd5D6bA6fD5D816548b066a",
-            "decimals": 18,
             "name": "TECH Token",
             "symbol": "TECH",
             "logoURI": "https://raw.githubusercontent.com/Dexalot/tokenlist/main/imgs/tech/logo.png"
         },
         {
-            "chainId": 432204,
-            "address": "0xAcFb898Cff266E53278cC0124fC2C7C94C8cB9a5",
-            "decimals": 18,
             "name": "NOCHILL Token",
             "symbol": "NOCHILL",
             "logoURI": "https://raw.githubusercontent.com/Dexalot/tokenlist/main/imgs/nochill/logo.png"
         },
         {
-            "chainId": 432204,
-            "address": "0x8aD25B0083C9879942A64f00F20a70D3278f6187",
-            "decimals": 18,
             "name": "MEOW Token",
             "symbol": "MEOW",
             "logoURI": "https://raw.githubusercontent.com/Dexalot/tokenlist/main/imgs/meow/logo.png"
         },
         {
-            "chainId": 432204,
-            "address": "0xE8385CECb013561b69bEb63FF59f4d10734881f3",
-            "decimals": 18,
             "name": "GEC Token",
             "symbol": "GEC",
             "logoURI": "https://raw.githubusercontent.com/Dexalot/tokenlist/main/imgs/gec/logo.png"
