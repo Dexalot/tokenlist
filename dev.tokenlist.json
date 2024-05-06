@@ -25,7 +25,7 @@
             "logoURI": "https://raw.githubusercontent.com/Dexalot/tokenlist/main/imgs/usdc/logo.png"
         },
         {
-            "name": "TDTC3 mUSDC",
+            "name": "mUSDC",
             "symbol": "mUSDC",
             "logoURI": "https://raw.githubusercontent.com/Dexalot/tokenlist/main/imgs/usdc/logo.png"
         },
@@ -40,7 +40,7 @@
             "logoURI": "https://raw.githubusercontent.com/Dexalot/tokenlist/main/imgs/avax/logo.png"
         },
         {
-            "name": "BTC.b",
+            "name": "Bitcoin",
             "symbol": "BTC.b",
             "logoURI": "https://raw.githubusercontent.com/Dexalot/tokenlist/main/imgs/btc/logo.png"
         },
@@ -55,7 +55,7 @@
             "logoURI": "https://raw.githubusercontent.com/Dexalot/tokenlist/main/imgs/eth/logo.png"
         },
         {
-            "name": "TDTC3 mWETH.e",
+            "name": "mWETH.e",
             "symbol": "mWETH.e",
             "logoURI": "https://raw.githubusercontent.com/Dexalot/tokenlist/main/imgs/eth/logo.png"
         },
@@ -67,6 +67,11 @@
         {
             "name": "USDT",
             "symbol": "USDT",
+            "logoURI": "https://raw.githubusercontent.com/Dexalot/tokenlist/main/imgs/usdt/logo.png"
+        },
+        {
+            "name": "USDt",
+            "symbol": "USDt",
             "logoURI": "https://raw.githubusercontent.com/Dexalot/tokenlist/main/imgs/usdt/logo.png"
         },
         {
@@ -113,11 +118,6 @@
             "name": "Gunzilla Token",
             "symbol": "GUN",
             "logoURI": "https://raw.githubusercontent.com/Dexalot/tokenlist/main/imgs/gun/logo.png"
-        },
-        {
-            "name": "Bitcoin",
-            "symbol": "BTC",
-            "logoURI": "https://raw.githubusercontent.com/Dexalot/tokenlist/main/imgs/btc/logo.png"
         },
         {
             "name": "KIMBO Token",
