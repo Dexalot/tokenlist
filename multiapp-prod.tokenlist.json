@@ -25,6 +25,11 @@
             "logoURI": "https://raw.githubusercontent.com/Dexalot/tokenlist/main/imgs/avax/logo.png"
         },
         {
+            "name": "Arbitrum",
+            "symbol": "ARB",
+            "logoURI": "https://raw.githubusercontent.com/Dexalot/tokenlist/main/imgs/arb/logo.png"
+        },
+        {
             "name": "BTC.b",
             "symbol": "BTC.b",
             "logoURI": "https://raw.githubusercontent.com/Dexalot/tokenlist/main/imgs/btc/logo.png"
