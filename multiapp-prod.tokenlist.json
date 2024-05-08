@@ -45,12 +45,17 @@
             "logoURI": "https://raw.githubusercontent.com/Dexalot/tokenlist/main/imgs/deg/logo.png"
         },
         {
-            "name": "WETH.e",
+            "name": "Wrapped Ether",
             "symbol": "WETH.e",
             "logoURI": "https://raw.githubusercontent.com/Dexalot/tokenlist/main/imgs/eth/logo.png"
         },
         {
-            "name": "ETH",
+            "name": "Wrapped Ether",
+            "symbol": "WETH",
+            "logoURI": "https://raw.githubusercontent.com/Dexalot/tokenlist/main/imgs/eth/logo.png"
+        },
+        {
+            "name": "Ether",
             "symbol": "ETH",
             "logoURI": "https://raw.githubusercontent.com/Dexalot/tokenlist/main/imgs/eth/logo.png"
         },
