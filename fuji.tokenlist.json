@@ -85,6 +85,11 @@
             "logoURI": "https://raw.githubusercontent.com/Dexalot/tokenlist/main/imgs/euroc/logo.png"
         },
         {
+            "name": "Euro Coin",
+            "symbol": "EURC",
+            "logoURI": "https://raw.githubusercontent.com/Dexalot/tokenlist/main/imgs/euroc/logo.png"
+        },
+        {
             "name": "BENQI Token",
             "symbol": "QI",
             "logoURI": "https://raw.githubusercontent.com/Dexalot/tokenlist/main/imgs/qi/logo.png"
